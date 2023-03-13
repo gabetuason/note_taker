@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Deployed link:
+Deployed link: https://mysterious-wave-08821.herokuapp.com/
 
 ## Description
 
