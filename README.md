@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+Deployed link:
+
 ## Description
 
 An application called `Note Taker` that can be used to write and save notes. This application uses an Express.js back end and will save and retrieve note data from a JSON file. With handling client side requests, it triggers corresponding requests on the server side: GET, POST, and DELETE. Specifically, GET requests retrieve data from JSON file in database, POST requests adds data to the database, and DELETE requests remove notes from database. Included in the files are the starter code for the htmls (public) and helpers (fsUtils.js) for read, write and append to JSON files. UUID (uuid.js) also is included to give unique identifiers for each notes in the database(db.json).
@@ -21,13 +23,11 @@ There is no need for installation for this application since it is deployed on h
 
 ## Usage
 
-Deployed link:
-
 After running the application and when you click "Get Started." You will be directed to the note page where you can add/delete notes. On the top right `+` is to add new note and a SAVE icon will appear to save. Red trash to delete the corresponding note.
 
 
 For more help on usage, please view screenshot.
-![screenshot]()
+![screenshot](https://github.com/gabetuason/note_taker_app/blob/main/imgs/img1.JPG)
 
 ## License
 
