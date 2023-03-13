@@ -17,7 +17,7 @@ An application called `Note Taker` that can be used to write and save notes. Thi
 
 ## Installation
 
-There is no need for installation for this application since it is deployed on heroku. For testing purposes, with the console command line, you will need to type: `npm i`. To run the application. Also include these other packages for express `npm i express` and uuid `npm i uuid`. 
+There is no need for installation for this application since it is deployed on heroku. For testing purposes, with the console command line, you will need to type: `npm i` To run the application. Also include, these other packages for express `npm i express` and uuid `npm i uuid`. 
 
 ## Usage
 
@@ -41,8 +41,6 @@ This is an open source application, feel free to use this for any project. It is
 
 During testing, ensure node_modules and package-lock.json are added in the correct file directory after following the installation process. To see if application processing accordingly, it should bring you to a HTML when `http://localhost:3001/` on your web browser after you type `npm start`. 
 
-![screenshot]()
-  
 ## Questions
 
 For any questions about the application, please contact gabetuason24@gmail.com or view the github https://github.com/gabetuason to find me
