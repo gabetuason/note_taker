@@ -1,0 +1,22 @@
+[
+    {
+        "title": "GYM",
+        "text": "For building muscle shoulders: lateral raises — 3 sets of 8 to 10 reps",
+        "id": "7e41"
+    },
+    {
+        "title": "Express JS",
+        "text": "It's a layer built on the top of the Node.js that helps manage servers and routes",
+        "id": "00f4"
+    },
+    {
+        "title": "MySQL",
+        "text": "To add, access, and process data stored in a computer database, you need a database management system such as MySQL Server",
+        "id": "3df3"
+    },
+    {
+        "title": "Cool Notes",
+        "text": "Gabe was here",
+        "id": "8566"
+    }
+]
